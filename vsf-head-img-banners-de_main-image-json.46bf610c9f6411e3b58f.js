@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[143],{648:function(e){e.exports={image:{title:"Laufe den Lauf.",subtitle:"Eine Mode kann zum vorherrschenden Stil im Verhalten werden oder die neuesten Kreationen von Designern, Technologen, Ingenieuren und Designmanagern manifestieren.",image:"/assets/full_width_banner.jpg",link:"/c/frauen-20"}}}}]);
+//# sourceMappingURL=vsf-head-img-banners-de_main-image-json.46bf610c9f6411e3b58f.js.map

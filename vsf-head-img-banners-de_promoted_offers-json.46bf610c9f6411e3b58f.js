@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[144],{649:function(e){e.exports={mainBanners:[{title:"Büro lässig",subtitle:"Kollektion",image:"/assets/ban1.jpg",link:"/c/frauen-20"}],smallBanners:[{title:"Sheinen",subtitle:"Zubehör",image:"/assets/ban2.jpg",link:"/c/herren-11"},{title:"Der Frühling kommt",subtitle:"Hüte",image:"/assets/ban3.jpg",link:"/c/gerat-3"}],productBanners:[{title:"Der Frühling kommt",subtitle:"Hüte",image:"/assets/ban3.jpg",link:"/c/gerat-3"}]}}}]);
+//# sourceMappingURL=vsf-head-img-banners-de_promoted_offers-json.46bf610c9f6411e3b58f.js.map
